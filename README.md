@@ -11,7 +11,7 @@ GMSIFN adopts a three-stage processing architecture that effectively integrates 
 graph classiﬁcation. In the unsupervised graph construction stage, the GMSIFN network constructs sensor topology graphs in an unsupervised manner, relying solely on similarity computation between nodes without requiring any manual labeling.
 
 <p align="center">
-  <img src="framework.png" alt="GMSIFN Framework" width="800">
+  <img src="framework.jpg" alt="GMSIFN Framework" width="800">
 </p>
 
 ### Key Features
@@ -290,5 +290,6 @@ For questions or issues, please:
 - MAML-based meta-learning framework
 - Cross-category small-sample learning support
 - Comprehensive documentation and examples
+
 
 
