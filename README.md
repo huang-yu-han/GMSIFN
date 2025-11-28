@@ -10,6 +10,10 @@ GMSIFN adopts a three-stage processing architecture that effectively integrates 
 (1) unsupervised graph construction, (2) node feature aggregation, and (3) 
 graph classiﬁcation. In the unsupervised graph construction stage, the GMSIFN network constructs sensor topology graphs in an unsupervised manner, relying solely on similarity computation between nodes without requiring any manual labeling.
 
+<p align="center">
+  <img src="framework.png" alt="GMSIFN Framework" width="800">
+</p>
+
 ### Key Features
 
 - **Graph Generation Layer (GGL)**: Dynamically constructs graph structures based on learned node similarity
@@ -286,4 +290,5 @@ For questions or issues, please:
 - MAML-based meta-learning framework
 - Cross-category small-sample learning support
 - Comprehensive documentation and examples
+
 
