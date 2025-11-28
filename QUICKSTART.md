@@ -154,7 +154,6 @@ print(f"Classes: {np.unique(labels)}")  # Should be 0-15
 - Modify the data loader in `data/meta_dataset.py`
 
 ## Getting Help
-
-- Check [Issues](https://github.com/yourusername/GMSIFN/issues) for common problems
 - Review the code comments for implementation details
-- Contact: your.email@example.com
+- Contact: 17771470797@163.com
+
