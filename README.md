@@ -4,7 +4,6 @@ Official PyTorch implementation of **"Dynamic Graph Meta-Learning with Multi-Sen
 
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch 1.2+](https://img.shields.io/badge/pytorch-1.2+-orange.svg)](https://pytorch.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 ## Overview
 GMSIFN adopts a three-stage processing architecture that effectively integrates multi-sensor fault information through the synergistic operation of: 
@@ -275,8 +274,7 @@ This work builds upon:
 ## Contact
 
 For questions or issues, please:
-- Open an issue on [GitHub](https://github.com/yourusername/GMSIFN/issues)
-- Contact: your.email@example.com
+- Contact: 17771470797@163.com
 
 ---
 
@@ -288,3 +286,4 @@ For questions or issues, please:
 - MAML-based meta-learning framework
 - Cross-category small-sample learning support
 - Comprehensive documentation and examples
+
