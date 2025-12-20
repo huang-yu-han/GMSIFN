@@ -251,12 +251,16 @@ train_loader, finetune_loader, eval_loader = get_meta_loaders(
 If you use this code for your research, please cite our paper:
 
 ```bibtex
-@article{gmsifn2026,
-  title={Dynamic Graph Meta-Learning with Multi-Sensor Spatial Dependencies for Cross-Category Small-Sample Fault Diagnosis in ZDJ9-RTAs},
-  author={Huang Y, Hu X, Chen F,et al},
-  journal={ADVANCED ENGINEERING INFORMATICS},
-  year={2026}
+@article{huang2026dynamic,
+  title={Dynamic graph meta-learning with multi-sensor spatial dependencies for cross-category small-sample fault diagnosis in ZDJ9-RTAs},
+  author={Huang, Yuhan and Hu, Xiaoxi and Chen, Fei and Cao, Jingming and He, Yiming and Ming, Qi and Wang, Huan and Wang, Jianing and Tang, Tao},
+  journal={Advanced Engineering Informatics},
+  volume={70},
+  pages={104132},
+  year={2026},
+  publisher={Elsevier}
 }
+解释
 ```
 
 ---
@@ -290,6 +294,7 @@ For questions or issues, please:
 - MAML-based meta-learning framework
 - Cross-category small-sample learning support
 - Comprehensive documentation and examples
+
 
 
 
