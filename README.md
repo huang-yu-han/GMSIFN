@@ -260,7 +260,6 @@ If you use this code for your research, please cite our paper:
   year={2026},
   publisher={Elsevier}
 }
-解释
 ```
 
 ---
@@ -294,6 +293,7 @@ For questions or issues, please:
 - MAML-based meta-learning framework
 - Cross-category small-sample learning support
 - Comprehensive documentation and examples
+
 
 
 
